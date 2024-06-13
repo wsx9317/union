@@ -2,8 +2,9 @@
 
 # union_cdpp
 - business description : real estate transaction website
-- member : 2
+- member : 3
 - period : 3 months
-- work contribution : 85%
+- position :  Front
+- work contribution : 80%
 - main function : Acquisition and registration of real estate information
 - main language : Flutter
